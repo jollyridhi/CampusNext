@@ -1,10 +1,6 @@
 # Stepwise
 >  — a step-by-step event/workflow tracker.
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)]
-[![Node.js](https://img.shields.io/badge/node-%3E%3D14-brightgreen.svg)]
-
-
 ## About
 **Stepwise**  is a lightweight app for listing and tracking upcoming events with role-based access (Admin / Super Admin / Normal User). Users can view, like, filter and export events. Admins can add/edit/delete events, and Super Admin can approve/deny special requests.
 
