@@ -1,8 +1,8 @@
-# Stepwise
+# CampusNext
 >  — a step-by-step event/workflow tracker.
 
 ## About
-**Stepwise**  is a lightweight app for listing and tracking upcoming events with role-based access (Admin / Super Admin / Normal User). Users can view, like, filter and export events. Admins can add/edit/delete events, and Super Admin can approve/deny special requests.
+**CampusNext**  is a lightweight app for listing and tracking upcoming events with role-based access (Admin / Super Admin / Normal User). Users can view, like, filter and export events. Admins can add/edit/delete events, and Super Admin can approve/deny special requests.
 
 ---
 
@@ -34,7 +34,7 @@
 ---
 
 Project structure (expected / example)
-Stepwise/
+CampusNext/
  ┣ backend/
  ┃ ┣ index.js
  ┃ ┣ package.json
